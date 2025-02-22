@@ -13,6 +13,7 @@
     "1.0.0": "first version."
   },
   "1.16.5": {
+    "1.0.1": "fixed creeper explosion bug.",
     "1.0.0": "first version."
   }
   "promos": {
@@ -24,7 +25,7 @@
     "1.19.2-recommended": "1.0.0",
     "1.18.2-latest": "1.0.0",
     "1.18.2-recommended": "1.0.0",
-    "1.16.5-latest": "1.0.0",
-    "1.16.5-recommended": "1.0.0"
+    "1.16.5-latest": "1.0.1",
+    "1.16.5-recommended": "1.0.1"
   }
 }
